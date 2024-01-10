@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_utils_js=self.webpackChunkx_utils_js||[]).push([[134],{49834:function(o,u,r){r.r(u),r.d(u,{formatFinance:function(){return e}});var i=function(n){var t;if(n!==void 0)return n==null||(t=n.toString())===null||t===void 0?void 0:t.replace(/\B(?=(\d{3})+$)/g,",")},e=i}}]);
