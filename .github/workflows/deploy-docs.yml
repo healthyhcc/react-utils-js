@@ -1,0 +1,29 @@
+name: Deploy Docs To Github Pages
+
+on:
+  push:
+    branches: ['main']
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+      - name: Setup node environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+      - name: Build with dumi
+        run: |
+          yarn
+          yarn docs:build
+      - name: Deploy pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: docs-dist
+          clean: true

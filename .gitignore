@@ -1,0 +1,9 @@
+node_modules
+/coverage
+/es
+/lib
+.dumi/tmp
+.dumi/tmp-test
+.dumi/tmp-production
+.DS_Store
+.idea
