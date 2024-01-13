@@ -7,7 +7,7 @@ A react utils developed with js
 [![NPM version](https://img.shields.io/npm/v/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
 [![NPM downloads](https://img.shields.io/npm/dm/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
 [![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
-[![code coverage](https://img.shields.io/coveralls/healthyhcc/x-utils-js.svg?style=flat-square)](https://coveralls.io/healthyhcc/x-utils-js)
+[![Codecov](https://img.shields.io/codecov/c/github/healthyhcc/x-utils-js.svg?style=flat-square)](https://app.codecov.io/gh/healthyhcc/x-utils-js)
 [![Package License](https://img.shields.io/npm/l/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
 
 </div>
