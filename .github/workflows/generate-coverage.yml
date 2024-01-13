@@ -1,9 +1,14 @@
 name: Generate Coverage Report
 
 on:
-  pull_request_target:
-    branches:
+  pull_request:
+    branches: 
       - main
+
+permissions:
+    checks: write
+    pull-requests: write
+    contents: write
 
 jobs:
   coverage:
