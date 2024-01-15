@@ -1,9 +1,8 @@
 name: Upload Coverage To Codecov
 
 on:
-  push:
-    branches: 
-      - main
+  release:
+    types: [published]
 
 jobs:
   coverage:
@@ -18,7 +17,7 @@ jobs:
       - name: Process test
         run: |
           yarn
-          yarn test 
+          yarn test
       - name: Upload coverage
         uses: codecov/codecov-action@v3
         with:

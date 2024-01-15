@@ -18,8 +18,8 @@ A react utils developed with js
 
 ## ✨ Features
 
-- 🌈 Easy to learn and use
-- 📦 Rich util functions
+- 🚀 Easy to learn and use
+- 🔍 Quick search function
 - ⚙️ Jest coverage report
 
 ## 📦 Install
