@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "dayjs": "^1.11.7",
-    "loadsh": "^0.0.4"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.23.2",

@@ -18,10 +18,10 @@
 ```
 
 ```jsx
-import { useResponsive } from 'x-star-utils';
+import { useResponsive } from 'x-utils-js';
 
 export default () => {
-  const isMobile = useResponsive();
+  const isMobile = useResponsive('xs');
   const isiPad = useResponsive('iPad');
   const isPC = useResponsive('pc');
   return (
