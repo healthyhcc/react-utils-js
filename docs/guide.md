@@ -1,17 +1,17 @@
 ## 📦 Install
 
 ```bash
-$ npm install --save x-utils-js
+$ npm install --save react-utils-js
 # or
-$ yarn add x-utils-js
+$ yarn add react-utils-js
 # or
-$ pnpm add x-utils-js
+$ pnpm add react-utils-js
 ```
 
 ## 🔨 Usage
 
 ```ts
-import { formatFinance } from 'x-utils-js';
+import { formatFinance } from 'react-utils-js';
 ```
 
 ## 💻 Online Demo
