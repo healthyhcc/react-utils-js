@@ -1,13 +1,13 @@
 ---
-title: x-utils-js - a utils library developed with js
+title: react-utils-js - a utils library developed with js
 hero:
-  title: x-utils-js
+  title: react-utils-js
   description: A utils library developed with js
   actions:
     - text: Start
       link: /components/format-finance
     - text: GitHub
-      link: https://github.com/healthyhcc/x-utils-js
+      link: https://github.com/healthyhcc/react-utils-js
 features:
   - title: Easy to learn and use
     emoji: 🚀

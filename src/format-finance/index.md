@@ -11,7 +11,7 @@
 ```
 
 ```jsx
-import { formatFinance } from 'x-utils-js';
+import { formatFinance } from 'react-utils-js';
 export default () => {
   const finance = 1000000;
   return <div>Price：{`$${formatFinance(finance)}`}</div>;

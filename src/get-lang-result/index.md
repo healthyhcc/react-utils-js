@@ -13,7 +13,7 @@
 
 ```jsx
 import { useState } from 'react';
-import { getLangResult } from 'x-utils-js';
+import { getLangResult } from 'react-utils-js';
 export default () => {
   const [lang, setLang] = useState('zh');
   return (

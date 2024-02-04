@@ -18,7 +18,7 @@
 ```
 
 ```jsx
-import { useResponsive } from 'x-utils-js';
+import { useResponsive } from 'react-utils-js';
 
 export default () => {
   const isMobile = useResponsive('xs');

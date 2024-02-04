@@ -1,20 +1,20 @@
-<h1 align="center">x-utils-js<p/>
+<h1 align="center">react-utils-js<p/>
 
 <div align="center">
 
 A react utils developed with js
 
-[![NPM version](https://img.shields.io/npm/v/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
-[![NPM downloads](https://img.shields.io/npm/dm/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
-[![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
-[![Codecov](https://img.shields.io/codecov/c/github/healthyhcc/x-utils-js.svg?style=flat-square)](https://app.codecov.io/gh/healthyhcc/x-utils-js)
-[![Package License](https://img.shields.io/npm/l/x-utils-js.svg?style=flat)](https://npmjs.org/package/x-utils-js)
+[![NPM version](https://img.shields.io/npm/v/react-utils-js.svg?style=flat)](https://npmjs.org/package/react-utils-js)
+[![NPM downloads](https://img.shields.io/npm/dm/react-utils-js.svg?style=flat)](https://npmjs.org/package/react-utils-js)
+[![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/react-utils-js.svg?style=flat)](https://npmjs.org/package/react-utils-js)
+[![Codecov](https://img.shields.io/codecov/c/github/healthyhcc/react-utils-js.svg?style=flat-square)](https://app.codecov.io/gh/healthyhcc/react-utils-js)
+[![Package License](https://img.shields.io/npm/l/react-utils-js.svg?style=flat)](https://npmjs.org/package/react-utils-js)
 
 </div>
 
 ## 📚 Documentation
 
-- [x-utils-js](https://healthyhcc.github.io/x-utils-js/)
+- [react-utils-js](https://healthyhcc.github.io/react-utils-js/)
 
 ## ✨ Features
 
@@ -25,17 +25,17 @@ A react utils developed with js
 ## 📦 Install
 
 ```bash
-$ npm install --save x-utils-js
+$ npm install --save react-utils-js
 # or
-$ yarn add x-utils-js
+$ yarn add react-utils-js
 # or
-$ pnpm add x-utils-js
+$ pnpm add react-utils-js
 ```
 
 ## 🔨 Usage
 
 ```ts
-import { formatFinance } from 'x-utils-js';
+import { formatFinance } from 'react-utils-js';
 ```
 
 ## 💻 Online Demo
